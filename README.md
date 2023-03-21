@@ -1,2 +1,1 @@
-# dotnet-core-webapi-demo
-dotnet core webapi demo
+﻿Documantation at  [github](https://github.com/ProvisionPay/dotnet-deeplink-sdk).
